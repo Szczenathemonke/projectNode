@@ -4,7 +4,9 @@ This repository serves as testPlayground for Node.js learning. Most of work here
 
 # topics
 
-    - modules
-    - typeScript
-    - Node.js
-    - testing with typeScript
+topics covered in this repository:
+
+- modules
+- typeScript
+- Node.js
+- testing with typeScript
